@@ -1,0 +1,72 @@
+.banner {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: "Lucida Sans Unicode", "Helvetica", "Arial", sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 1px;
+    margin-bottom: 10pt;
+}
+
+body {
+    background-color: white;
+    color: #404040;
+    font-family: "Georgia", "Garamond", "serif";
+    font-size: 11pt;
+}
+
+h1.banner {
+    font-size: 22pt;
+    text-align: center;
+}
+
+.summary {
+    list-style-type: none;
+    padding: 0;
+}
+
+.tooltip {
+    text-decoration: underline;
+}
+
+.strikethru {
+    text-decoration: line-through;
+}
+
+.step, .emphComment {
+    font-weight: bold;
+}
+
+.comments {
+    background-color: #FFFFA8;
+    font-style: italic;
+    padding: 2pt;
+    margin: 10pt;
+    margin-left: 25pt;
+    margin-right: 25pt;
+}
+
+.signature {
+    padding-top: 12pt;
+}
+
+.links a {
+    color: #A4A400;
+    text-decoration: underline;
+}
+
+.footer {
+    font-family: monospace;
+}
+
+.ValidatorsAndCopyright {
+    text-align: right;
+}
+
+.ValidatorsAndCopyright pre{
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+}
