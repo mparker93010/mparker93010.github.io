@@ -53,7 +53,9 @@ h1.banner {
 }
 
 .links a {
-    color: #A4A400;
+    /*color: #A4A400;*/
+    color: cyan;
+    font-weight: bold;
     text-decoration: underline;
 }
 
